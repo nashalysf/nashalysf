@@ -4,7 +4,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nashalysf&show_icons=true&hide_border=true&theme=darcula&bg_color=00000000&locale=en&layout=compact" alt="nashalysf"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nashalysf&hide_border=true&theme=darcula&bg_color=00000000&show_icons=true&locale=en" alt="nashalysf" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashalysf&theme=nord&no-frame=true" alt="nashalysf" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nashalysf&theme=nord&no-frame=true&margin-w=15" alt="nashalysf" /></a> </p>
 
 
 
