@@ -14,6 +14,6 @@
 
 <h3 align="center">Let's get in touch!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nashalys-fernandez/" target="blank"><img align="center" src="https://github.com/nashalysf/nashalysf/assets/107204057/612e8bca-2256-4b10-bd31-ff7589b4d5c6" alt="My LinkedIn account" height="40" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/naferi" target="blank"><img align="center" src="https://github.com/nashalysf/nashalysf/assets/107204057/9235b2cf-eb49-47fd-87cf-53a4061ecb55" alt="My Behance account" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nashalys-fernandez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn account" height="40" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/naferi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="My Behance account" height="50" width="50" /></a>
 </p>
