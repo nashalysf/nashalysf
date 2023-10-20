@@ -15,5 +15,5 @@
 <h3 align="center">Let's get in touch!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nashalys-fernandez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn account" height="40" width="40" /></a>
-<a href=https://www.behance.net/naferi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="My Behance account" height="50" width="50" /></a>
+<a href="https://www.behance.net/naferi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="My Behance account" height="50" width="50" /></a>
 </p>
